@@ -1,0 +1,4 @@
+import & exports
+
+type1: Default
+type2: import & exports
